@@ -28,18 +28,3 @@ Shafiqul Hai, **Tella Rajashekhar Reddy**
 *ANTS 2024* | [PDF](https://mr-rajashekhar.github.io/files/Resource_Profiling_for__Next_Generation__Radio_Access_Networks.pdf) | [SLIDES](https://mr-rajashekhar.github.io/files/IEEE_ANTS_2024_SLIDES.pdf)
 
 ---
-### Judging LLM-as-a-judge with MT-Bench and Chatbot Arena
-Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, **Yonghao Zhuang**, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica  
-*NeurIPS 2023 Datasets and Benchmarks*  [[📄]](https://arxiv.org/abs/2306.05685)
-
----
-
-### On Optimizing the Communication of Model Parallelism
-**Yonghao Zhuang** *, Hexu Zhao *, Lianmin Zheng, Zhuohan Li, Eric P. Xing, Qirong Ho, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  
-*MLSys 2023* • [Paper](https://arxiv.org/abs/2211.05322)
-
----
-
-### Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
-Lianmin Zheng \*, Zhuohan Li \*, Hao Zhang \*, **Yonghao Zhuang**, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Joseph E. Gonzalez, Ion Stoica  
-*OSDI 2022* • [Paper](https://arxiv.org/abs/2201.12023) • [Code](https://github.com/alpa-projects/alpa)
