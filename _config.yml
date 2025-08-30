@@ -22,7 +22,7 @@ repository               : "mr-rajashekhar/mr-rajashekhar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://mr-rajashekhar.github.io/images/raja.jpg"
   name             : "Tella Rajashekhar Reddy"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doc Fellow@Microsoft Research India."
