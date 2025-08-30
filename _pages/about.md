@@ -12,7 +12,7 @@ Hi! I’m **Rajashekhar**, a Pre-Doctoral Research Fellow in the [AI Infrastruct
 Previously, I was part of the [Future Generation Lab](https://futuregnetworks.iitdh.ac.in/home) at [IIT Dharwad](https://www.iitdh.ac.in/), where I worked under the guidance of [Dr. Koteswararao Kondepu](https://scholar.google.com/citations?user=X-yZFQkAAAAJ&hl=en)
  on problems at the intersection of networks and systems. My projects included resource optimization for radio access networks (RAN), energy analysis across RAN generations, and UAV-based communication systems.
 
-I was also selected as a Globalink Research Intern with MITACS, which gave me the opportunity to visit Lakehead University, Barrie, Canada, and work with Dr. Shafiqul Hai. There, I explored the intersection of FPGA and machine learning, implementing CNNs on FPGA for ultra-reliable, low-latency, and energy-efficient inference.
+I was also selected as a [Globalink Research Intern](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) at [MITACS](https://www.mitacs.ca/) with MITACS, which gave me the opportunity to visit [Lakehead University](https://www.lakeheadu.ca/), Barrie, Canada, and work with [Dr. Shafiqul Hai](https://lakehead.engineering/people/dr-shafiqul-hai/). There, I explored the intersection of FPGA and machine learning, implementing CNNs on FPGA for ultra-reliable, low-latency, and energy-efficient inference.
 
 I graduated with a B.Tech. in Computer Science and Engineering from IIT Dharwad in 2024. Beyond research, I enjoy playing badminton and working out regularly.
 
