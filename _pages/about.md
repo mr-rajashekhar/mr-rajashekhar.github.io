@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+description: "Portfolio of Rajashekhar Reddy, Pre-Doctoral Research Fellow at Microsoft Research India. Research in AI Infrastructure, Systems for ML, ML for Systems."
+keywords: "AI Infrastructure, Microsoft Research, Systems for ML, ML for Systems, IIT Dharwad, FPGA, RAN"
+
 ---
 
 Hi! I’m **Rajashekhar**, a Pre-Doctoral Research Fellow with the [AI Infrastructure group](https://www.microsoft.com/en-us/research/project/ai-infrastructure/) at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I am fortunate to collaborate with [Debopam Bhattacherjee](https://bdebopam.github.io/), [Rohan Gandhi](https://rohangandhigen.github.io/), and [Anjaly Prayil](https://www.microsoft.com/en-us/research/people/aparayil/). My research interests broadly span **systems for machine learning and machine learning for systems**, with an overarching focus on computer systems. I also remain open to exploring new research directions.  

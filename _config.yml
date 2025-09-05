@@ -125,6 +125,9 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -309,6 +312,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
