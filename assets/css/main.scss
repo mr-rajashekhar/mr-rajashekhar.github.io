@@ -39,5 +39,8 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+  "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides must come last so they win */
+@import "overrides";

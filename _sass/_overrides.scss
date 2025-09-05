@@ -1,0 +1,52 @@
+/* ========================================================================
+   Site-specific overrides
+   ------------------------------------------------------------------------
+   Change link colors globally by overriding the CSS variables consumed by
+   the theme (see _sass/layout/_reset.scss and others).
+   Update the hex values below to your preferred palette.
+   ======================================================================== */
+
+/* Light mode (default) */
+:root {
+  /* Link */
+  --global-link-color: #5dafc8;            /* primary link color */
+
+  /* Optional: masthead (top nav) link colors */
+  /* --global-masthead-link-color: #333333; */
+  /* --global-masthead-link-color-hover: #111111; */
+}
+
+/* Dark mode (if using the theme toggle) */
+html[data-theme="dark"] {
+  --global-link-color: #5dafc8;
+  --global-link-color-hover: #2698ba;
+  --global-link-color-visited: #2698ba;
+
+  /* Optional: masthead link colors for dark theme */
+  /* --global-masthead-link-color: #ffffff; */
+  /* --global-masthead-link-color-hover: #e6f7ff; */
+}
+
+// Change the global font for the entire site
+$global-font-family: "Roboto", sans-serif !default;
+
+// Optionally, change header and caption fonts too:
+$header-font-family: "Roboto", sans-serif !default;
+$caption-font-family: "Roboto", sans-serif !default;
+
+.cv-date {
+  font-size: 0.9em;
+}
+
+.pdf-icon {
+  color: var(--pdf-icon-color, #000);
+  transition: color 0.2s;
+}
+
+:root {
+  --pdf-icon-color: #000; // black for light theme
+}
+
+html[data-theme="dark"] {
+  --pdf-icon-color: #fff; // white for dark theme
+}

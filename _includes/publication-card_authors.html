@@ -1,0 +1,24 @@
+<div style="
+  border-left: 5px solid #1a73e8;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 20px 24px;
+  margin: 1.5em 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  transition: box-shadow 0.3s ease;
+  position: relative;
+">
+  <div style="font-size: 1.15em; font-weight: 600; color: #1a73e8; margin-bottom: 8px;">
+    <a href="{{ include.link }}" style="text-decoration: none; color: inherit;">
+      <i class="fas fa-external-link-alt" style="margin-right: 8px;"></i>
+      {{ include.title }}
+    </a>
+  </div>
+  <div style="color: #495057; font-size: 0.9em; line-height: 1.5; margin-bottom: 10px;">
+     {{ include.authors | replace: "Tella Rajashekhar Reddy", "<strong>Tella Rajashekhar Reddy</strong>" }}
+  </div>
+  <div style="font-style: italic; color: #6c757d; font-size: 0.95em;">
+    <i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>
+    {{ include.venue }}
+  </div>
+</div>
