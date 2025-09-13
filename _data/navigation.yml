@@ -12,5 +12,6 @@ main:
     url: /publications/  
     
   - title: "CV"
-    url: /cv/
+    url: https://mr-rajashekhar.github.io/files/Rajashekhar_CV.pdf
+    new_window: true
     

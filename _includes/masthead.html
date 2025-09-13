@@ -8,12 +8,17 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+            {% assign is_external = link.url contains 'http' %}
+            {% assign is_pdf = link.url contains '.pdf' %}
+            {% if is_external %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign open_new = link.new_window or is_external or is_pdf %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}"{% if open_new %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+            </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>

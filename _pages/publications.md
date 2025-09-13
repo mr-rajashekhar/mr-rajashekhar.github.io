@@ -31,6 +31,16 @@ Rohan Gandhi, Debopam Bhattacherjee, **Tella Rajashekhar Reddy**<br>
 **Tella Rajashekhar Reddy**, Palak, Rohan Gandhi, Anjaly Parayil, Chaojie Zhang, Mike Shepperd, Liangcheng Yu, Jayashree Mohan, Srinivasan Iyengar, Shivkumar Kalyanaraman, Debopam Bhattacherjee  
 *Arxiv* | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 
+### BeLLMan: Controlling LLM Congestion 
+**Tella Rajashekhar Reddy**, Atharva Deshmukh, Karan Tandon, Rohan Gandhi, Anjaly Parayil, Debopam Bhattacherjee
+*Arxiv* 
+<!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
+
+### Improving training time and GPU utilization in geo-distributed language model training 
+Palak, **Tella Rajashekhar Reddy**, Bhaskar Kataria, Rohan Gandhi, Karan Tandon, Debopam Bhattacherjee, Venkat N Padmanabhan
+*Arxiv* 
+<!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
+
 ---
 
 ## Journals
@@ -78,7 +88,7 @@ Venkateswarlu Gudepu, Bhargav Chirumamilla, **Tella Rajashekhar Reddy**, Abhishe
 
 ---
 ### Experience: Implementation of edge-cloud for autonomous navigation applications 
-**Tella Rajashekhar Reddy**, Andrea Marotta, Piero Castoldi, Luca Valcarenghi, Koteswararao Kondepu<br>
+Yuvraj Chowdary Makkena, **Tella Rajashekhar Reddy**, Nisarg Parekh, Prem Kumar Saraf, Hershita Shukla, Akhila Matathammal, Sarat Chandra Sai Danda, Praveen Chandrahas, Akshay Ramesh Jadhav, Praveen Tammana, Koteswararao Kondepu, Rajalakshmi Pachamuthu<br>
 *COMSNETS 2023* | <a href="https://mr-rajashekhar.github.io/files/COMSNETS_EXPERIENCE_PAPER_2023.pdf" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 
 ---
